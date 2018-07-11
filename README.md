@@ -8,7 +8,9 @@ play there, and how you will get there.
 Music festivals can be some of the happiest places on earth. However, they can be very challenging and even dangerous if you are not prepared. Hopefully this will give you some insight into what you will need to bring and do to maximize fun and safety.
 
 
-{% inlude figure image_path=" /_assets / images / ef.jpg %}
+{% include figure image_path=" /_assets / images / ef.jpg %}
+
+{% include figure image_path=" /_assets / images / roo.jpg %}
 
 
 
