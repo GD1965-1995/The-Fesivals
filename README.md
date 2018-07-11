@@ -12,6 +12,9 @@ Music festivals can be some of the happiest places on earth. However, they can b
 
 {% include figure image_path="/_assets/images/roo.jpg" %}
 
+What To Bring:
+Tent, canopy, lots of water, sunscreen, bug spray, baby wipes, sufficient cash, backpack, and an open mind.
+
 
 
 
