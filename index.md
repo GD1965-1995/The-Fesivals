@@ -12,3 +12,5 @@ style="width:width:500px;height:320px;"></a>
 
 What To Bring: 
 Tent, canopy, lots of water, sunscreen, bug spray, baby wipes, sufficient cash, backpack, and an open mind.
+
+[Next Page](map.md)
