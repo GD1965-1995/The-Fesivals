@@ -4,9 +4,9 @@ Music festivals can be some of the happiest places on earth. However, they can b
 
  <p>Small images should be shown at their actual size.</p>
 
-      <p><a href="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" target="_blank"><img src="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" alt=""  style="max-width:100%;"></a></p>
+<p><a href="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" target="_blank"><img src="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" alt=""                    style="width:200px;height:200px;"></a></p>
 
-      <p>Large images should always scale down and fit in the content container.</p>
+<p>Large images should always scale down and fit in the content container.</p>
 
      
 
