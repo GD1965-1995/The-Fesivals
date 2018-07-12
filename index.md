@@ -7,19 +7,8 @@ Music festivals can be some of the happiest places on earth. However, they can b
 <a href="http://edmchicago.com/wp-content/uploads/2017/06/bonnaroo-at-sunset.jpg" target="_blank"><img src="http://edmchicago.com/wp-content/uploads/2017/06/bonnaroo-at-sunset.jpg" alt="scoopity woop"
 style="width:width:500px;height:250px;"></a>
 
- <div id="banner">
-    <div class="inline-block">
-        <img src ="img1.jpg">
-    </div>
-
-    <div class="inline-block">
-        <img src ="img2.jpg">
-    </div>
-
-    <div class="inline-block">
-        <img src ="img3.jpg">
-    </div>
-</div>
+<a href="https://www.electricforestfestival.com/wp-content/uploads/2017/01/EF2017_DesktopWallpapers_Comp02.jpg" target="_blank"><img src="https://www.electricforestfestival.com/wp-content/uploads/2017/01/EF2017_DesktopWallpapers_Comp02.jpg" alt="scoopity woop"
+style="width:width:500px;height:320px;"></a>
 
 What To Bring: 
 Tent, canopy, lots of water, sunscreen, bug spray, baby wipes, sufficient cash, backpack, and an open mind.
