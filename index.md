@@ -2,13 +2,7 @@ Hi festival goers, Im Kame. I have been to many music festivals throughout the c
 
 Music festivals can be some of the happiest places on earth. However, they can be very challenging and even dangerous if you are not prepared. Hopefully this will give you some insight into what you will need to bring and do to maximize fun and safety.
 
- <p>Small images should be shown at their actual size.</p>
-
-<p><a href="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" target="_blank"><img src="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" alt=""                    style="width:200px;height:200px;"></a></p>
-
-<p>Large images should always scale down and fit in the content container.</p>
-
-     
+<a href="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" target="_blank"><img src="https://d1a3f4spazzrp4.cloudfront.net/chameleon/cms/uploads/2017/3/1/1488384946-ultra.jpg" alt=""                    style="width:200px;height:200px;"></a>
 
 What To Bring: 
 Tent, canopy, lots of water, sunscreen, bug spray, baby wipes, sufficient cash, backpack, and an open mind.
