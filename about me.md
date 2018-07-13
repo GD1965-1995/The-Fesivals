@@ -6,5 +6,7 @@ Hey guys, I'm Kame. I love music festivals. I play guitar in 2 bands: Mountain V
 Enjoy the site!!
 
 Snapchat: kame_deadhead
+
 Twitter: [My Twitter](https://twitter.com/Forgotten_Fight)
+
 Youtube:[My Youtube] (https://www.youtube.com/channel/UCIm55K9C27tmkAj6DtWhP0w?view_as=subscriber)
