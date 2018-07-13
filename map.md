@@ -7,7 +7,7 @@ It is held in Rothbury, Michigan during the last 2 weekends of June.
 <a href="https://i.ytimg.com/vi/CYu4Gn1--QI/maxresdefault.jpg" target="_blank"><img src="https://i.ytimg.com/vi/CYu4Gn1--QI/maxresdefault.jpg" alt="scoopity woop"
 style="width:width:500px;height:320px;"></a>
 
-[Electric Forest video](https://www.youtube.com/watch?v=glCGfosyg_Q)     
+[Electric Forest Video](https://www.youtube.com/watch?v=glCGfosyg_Q)     
 
 [Electric Forest website](https://www.electricforestfestival.com/)
 
