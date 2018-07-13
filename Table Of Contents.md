@@ -1,3 +1,7 @@
+# Table Of Contents
+## [Home](index.md)
+
+
 
 [Electric Forest](map.md)
 
