@@ -9,6 +9,6 @@ Enjoy the site!!
 
 Snapchat: kame_deadhead
 
-Twitter: [My Twitter](https://twitter.com/Forgotten_Fight)
+[My Twitter](https://twitter.com/Forgotten_Fight)
 
-Youtube:[My Youtube] (https://www.youtube.com/channel/UCIm55K9C27tmkAj6DtWhP0w?view_as=subscriber)
+[My Youtube](https://www.youtube.com/channel/UCIm55K9C27tmkAj6DtWhP0w?view_as=subscriber)
