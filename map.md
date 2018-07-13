@@ -1,5 +1,7 @@
 # ELECTRIC FOREST
+-----------------------------------------------------------------------------------------------------------------------------------
 ## [Home](index.md)
+[Table of Contents](navigate.md)
 
 Elecric Forest is one of the most vibrant and explosive music festivals in the country. It is also one of my personal favorites. 
 Electic forest is based in electronic music, with offshoots into jam-bands, folk rock, funk, and more. 
