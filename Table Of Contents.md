@@ -3,4 +3,4 @@
 
 [Bonnaroo](bonnaroo.md)
 
-[About Me](About me.md)
+[About Me](about me.md)
