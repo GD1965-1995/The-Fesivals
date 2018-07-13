@@ -13,6 +13,6 @@ style="width:width:500px;height:320px;"></a>
 What To Bring: 
 Tent, canopy, lots of water, sunscreen, bug spray, baby wipes, sufficient cash, backpack, and an open mind.
 
-<p style="text-align: right;"><a href="map.md">Electric Forest</a></p>
+<p style="text-align: right;"><a href="map/">Electric Forest</a></p>
 
 
