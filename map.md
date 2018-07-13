@@ -11,4 +11,4 @@ style="width:width:500px;height:320px;"></a>
 
 [Electric Forest website](https://www.electricforestfestival.com/)
 
-<p style="text-align: center;"><a href="bonnaroo.md"Bonnaroo></a>        
+<p style="text-align: right;"><a href="bonnaroo.md"Bonnaroo></p>        
