@@ -2,7 +2,9 @@
 ## [Home](index.md)
 
 Hey guys, I'm Kame. I love music festivals. I play guitar in 2 bands: Mountain View Avenue and The Bounds. Check us out frfr.          Im making this site for other likeminded individuals who don't have all the information they want on music festivals. 
-    Enjoy the site!!
+
+Enjoy the site!!
+
 
 
 Snapchat: kame_deadhead
